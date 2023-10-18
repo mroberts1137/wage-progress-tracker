@@ -1,0 +1,11 @@
+{
+  "name": "Michael",
+  "job": "Good Job",
+  "wage": 55,
+  "deductions": 0.15,
+  "goals": {
+    "rent": 1650,
+    "bills": 300,
+    "loan": 160
+  }
+}
